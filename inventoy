@@ -1,1 +1,1 @@
-loooo ansible_host=#put_ip ansible_user=#put_user ansible_ssh_pass=#put_password
+localhost ansible_host=#put_ip ansible_user=#put_user ansible_ssh_pass=#put_password
