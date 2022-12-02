@@ -1,0 +1,7 @@
+-
+  name: play
+  hosts: localhost
+  tasks:
+    - name: show what is in resolve file
+      command: "{{ cat /etc/hosts >> /home/user/ansible/result2.txt }}"
+        

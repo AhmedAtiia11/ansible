@@ -1,0 +1,1 @@
+localhost ansible_host=#put_your_ip  ansible_user=#put_user  ansible_ssh_pass=#put_password
